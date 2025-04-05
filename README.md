@@ -18,7 +18,7 @@
 <h2>How to Use?</h2>
   <ol>
       <li>Open index.html in browser.</li>
-      <li>Click on the any color button younwant to apply on the background.</li>
+      <li>Click on the any color button you want to apply on the background.</li>
       <li>The background color will change correspondingly.</li>
   </ol>
 
