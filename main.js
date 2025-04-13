@@ -10,7 +10,7 @@ btns.forEach((btn) => {
 });
 
 randBtn.addEventListener('click', () => {
-    let colors = ['pink', 'brown', 'grey', 'turquoise', 'magenta', 'maroon', 'beign', 'cyan', 'teal', 'gold', 'silver'];
+    let colors = ['pink', 'brown', 'turquoise', 'magenta', 'maroon', 'cyan', 'teal', 'gold'];
     let random = Math.floor(Math.random() * colors.length);
     let randcolor = colors[random];
     body.style.backgroundColor = randcolor;
