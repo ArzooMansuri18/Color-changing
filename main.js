@@ -1,5 +1,7 @@
 let body = document.querySelector('body');
 let btns = document.querySelectorAll('button');
+let randBtn = document.querySelector('#rand-btn');
+let colorPara = document.querySelector('#name');
 
 btns.forEach((btn) => {
     btn.addEventListener('click', () => {
