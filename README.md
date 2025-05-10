@@ -1,4 +1,4 @@
-# Color-changing
+# Background-color-changing
 <p>A simple <strong>Background Color Changer</strong> project bulit using <strong>HTML, CSS, and Javascript.</strong> This project demonastrates Javascript event handling and DOM manipulation to dynamically change the background color.</p>
 
 <h2>Features</h2>
